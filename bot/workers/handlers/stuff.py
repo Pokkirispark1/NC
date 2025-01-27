@@ -127,12 +127,12 @@ async def start(event, args, client):
             [Button.inline("Help", data="ihelp")],
             [
                 Button.url(
-                    "Source-Code (Original)",
-                    url="github.com/1Danish-00/compressorqueue",
+                    "Owner 🗿",
+                    url="https://t.me/SPARKBR0",
                 ),
-                Button.url("Developer (Original)", url="t.me/danish_00"),
+                Button.url("Channel 🎬", url="t.me/Moviemania_TG"),
             ],
-            [Button.url("Fork Maintainer", url="t.me/Col_serra")],
+            [Button.url("I love you 💖😌", url="tg://settings")],
         ],
     )
 
